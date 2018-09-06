@@ -1,6 +1,6 @@
 ## Datasets for experiment
 
-The naming convention of the dataset files is: srv-<serviceid>-<time series>-<granularity>.csv
+The naming convention of the dataset files is: ```srv-<serviceid>-<time series>-<granularity>.csv```
 
 Time series included are:
 
