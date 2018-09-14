@@ -12,9 +12,9 @@ An evaluation of QoS forecast methods described in paper Quality of Service Fore
 * Keras (https://keras.io/)
 * Scikit-learn (http://scikit-learn.org/)
 
-All of these Python libraries are available via Pip install tool (python3 -m pip install *package*).
+All of these Python libraries are available via Pip install tool (e.g. python3 -m pip install *package*).
 
 ### Analyses
 
-All analyses are present in analyses/SERV-*/ directories. To run any analysis yourself, you need to start your own Jupyter notebook session and load selected analysis.
+All analyses are present in *analyses/SERV-x/* directories. To run any analysis yourself, you need to start your own Jupyter notebook session and load selected analysis.
 
