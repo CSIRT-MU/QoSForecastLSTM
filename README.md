@@ -2,6 +2,9 @@
 
 An evaluation of QoS forecast methods described in paper Quality of Service Forecasting with LSTM Neural Networks
 
+### Abstract
+A robust and accurate forecast of the Quality of Service (QoS) attributes is essential for effective web service recommendation, enhanced user experience, and service management. Deep learning methods, especially Long Short-Term Memory Neural Networks (LSTM NN), have proven to be worthy for sequence forecasting in various domains recently. In this paper, we pilot an experimental application of LSTM NN in the domain of QoS forecasting. We develop a LSTM NN model for QoS prediction and compare its forecast performance with existing approaches for QoS attribute forecasting -- ARIMA and Holt-Winters models. The approaches are compared on two real-world QoS attribute datasets created using centralized passive QoS attribute collection technique. Our results show that LSTM NN improves the accuracy of QoS forecast for attributes collected with high granularity while maintaining a reasonable computation time.
+
 ### Prerequisities
 * Jupyter notebook (http://jupyter.org/)
 * Python 3 (https://www.python.org/)
