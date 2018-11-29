@@ -1,6 +1,6 @@
-## Datasets for experiment
+## Datasets for Experiment
 
-### Measurement setup
+### Measurement Setup
 
 The technology behind data collection and exact meaning of the individual variables are nicely described in [blog post by Jay Botelho](https://www.lovemytool.com/blog/2012/02/measuring-and-reporting-application-response-time-art-by-jay-botelho.html).
 
