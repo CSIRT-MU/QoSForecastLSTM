@@ -1,5 +1,17 @@
 ## Datasets for experiment
 
+### Measurement setup
+
+The technology behind data collection and exact meaning of the individual variables are nicely described in [blog post by Jay Botelho](https://www.lovemytool.com/blog/2012/02/measuring-and-reporting-application-response-time-art-by-jay-botelho.html).
+
+The data were measured using [Flowmon Application Performance Monitor](https://www.flowmon.com/en/products/flowmon/application-performance-monitor).
+
+We collected QoS attributes for two public web services. The first monitored service (SERV-1) is a portal for electronic information resources available at our university. This portal serves as a search engine for licensed resources for science, research, and teaching provided for our students. The second monitored service (SERV-2) is a web presentation of the Faculty of Science. While the first service is dynamic and interactive, the second one represents a static web presentation. 
+
+Both services were monitored over a month period from **June 16th to July 15th, 2018**.
+
+### Dataset Metadata
+
 The naming convention of the dataset files is: ```srv-<serviceid>-<time series>-<granularity>.csv```
 
 Time series included are:
