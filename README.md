@@ -21,3 +21,6 @@ All of these Python libraries are available via Pip install tool (e.g. python3 -
 
 All analyses are present in *analyses/SERV-x/* directories. To run any analysis yourself, you need to start your own Jupyter notebook session and load selected analysis.
 
+### Acknowledgement
+
+The data collection and technical implementation and evaluation of the experiment were supported by the Technology Agency of the Czech Republic under No. TA04010062 "Research and Development of Advanced Analytics Tools for Security and Performance Analysis of Network Infrastructure, Applications and Services". The state-of-the-art description, methodology of the experiment, and results discussion was supported by "CyberSecurity, CyberCrime and Critical Information Infrastructures Center of Excellence" (No. CZ.02.1.01/0.0/0.0/16\_019/0000822) supported by ERDF.
